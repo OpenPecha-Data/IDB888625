@@ -1,16 +1,17 @@
-id: opecha:P008065
+id: P008065
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN5168
   title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་གྲུབ་མཆོག་བླ་མའི་ཞལ་ལུང་།
-  volume:
+  author: ''
+  volumes:
     cf2a51972d9042b6ac01fbe58255329c:
       image_group_id: I3CN5170
       title: Volume 1 of phyag chen sngon 'gro'i khrid yig grub mchog bla ma'i zhal
         lung /
       volume_number: 1
       total_pages: 174
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་གྲུབ་མཆོག་བླ་མའི་ཞལ་ལུང་།
   author: ''
