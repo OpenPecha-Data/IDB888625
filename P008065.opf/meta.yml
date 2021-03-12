@@ -5,11 +5,13 @@ source_metadata:
   title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་གྲུབ་མཆོག་བླ་མའི་ཞལ་ལུང་།
   author: ''
   volumes:
-    08237e859f0c4a7a977d7ca79ee39db5:
+    cf2a51972d9042b6ac01fbe58255329c:
       image_group_id: I3CN5170
-      title: ''
+      title: Volume 1 of phyag chen sngon 'gro'i khrid yig grub mchog bla ma'i zhal
+        lung /
       volume_number: 1
       total_pages: 174
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱག་ཆེན་སྔོན་འགྲོའི་ཁྲིད་ཡིག་གྲུབ་མཆོག་བླ་མའི་ཞལ་ལུང་།
   author: ''
